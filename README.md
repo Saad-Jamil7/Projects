@@ -1,1 +1,1 @@
-
+Aspiring Data Scientist with a foundation in Python. Currently focused on strengthening my technical knowledge and understanding of core data science concepts. My goal is to apply these skills in future projects that turn data into valuable insights, and eventually build a career in data science and AI."
